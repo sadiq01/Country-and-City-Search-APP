@@ -1,0 +1,21 @@
+﻿body {
+    margin: 20px auto;
+    width: 956px;
+    /*height: 1200px;*/
+    
+}
+.Form {
+
+    width: 856px;
+    /*height: 1096px;*/
+    /*padding: 50px;*/
+    border: 2px solid black;
+
+}
+.Form h2 {
+    color: green;
+    font-size: 30px;
+    height: 41px;
+}
+
+

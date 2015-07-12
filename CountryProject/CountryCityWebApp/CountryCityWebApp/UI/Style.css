@@ -1,0 +1,37 @@
+﻿body {
+    margin: 20px auto;
+    width: 954px;
+    border: 2px solid maroon;
+}
+h1 {
+    color: blue;
+}
+nav {
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 960px;
+    
+}
+
+nav ul {
+
+    width: 500px;
+    list-style: none;
+    background-color: oldlace;
+    display: inline-block;
+   
+}
+
+nav ul li {
+    border-bottom: 1px solid black;
+    margin-bottom: 15px;
+}
+nav ul li a {
+     padding: 10px;
+    text-decoration: none;
+    color: maroon;
+    font-size: 20px;
+}
+nav ul li a:hover {
+    color: blue;
+}
